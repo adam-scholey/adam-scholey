@@ -65,8 +65,11 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 - **Fylio** — Secure document management SaaS with Stripe billing  
   *Stack: Python, Flask, PostgreSQL, Stripe*
 
-- **diamsystems.co.uk** — Corporate website and e-commerce platform  
+- **diamsystems.co.uk** — Corporate website and e-commerce platform
   *Stack: Python, Flask, Stripe, Gumroad*
+
+- **Seek** — Internal search engine for organisations with full-text search, Redis caching, and multi-tenant sync
+  *Stack: Python, Flask, PostgreSQL, Redis*
 
 #### Personal projects — public repos
 
