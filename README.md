@@ -92,6 +92,8 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 
 ### Links
 
+- [Email](mailto:adamscholey25@gmail.com)
+
 - [Portfolio](https://adam-scholey.github.io)
 - [LinkedIn](https://www.linkedin.com/in/adam-scholey-8306892b0/)
 - [diam Systems](https://diamsystems.co.uk)
