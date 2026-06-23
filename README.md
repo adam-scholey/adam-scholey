@@ -56,8 +56,8 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 
 #### diam Systems — proprietary, private repos
 
-- **FredCode** — Terminal-based AI coding agent with multi-agent workflows and 148 tests  
-  *Stack: Python, DeepSeek, Gemini*
+- **TableFlow** — Restaurant booking system with visual floor plan, Stripe deposits, and staff PWA  
+  *Stack: Python, Flask, MySQL, Tailwind CSS*
 
 - **diamDB** — Memory-first NoSQL micro-database with sub-50MB RAM footprint, built in Rust  
   *Stack: Rust, Tokio, Axum, DashMap*
