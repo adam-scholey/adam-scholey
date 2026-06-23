@@ -56,7 +56,7 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 
 #### diam Systems — proprietary, private repos
 
-- **TableFlow** — Restaurant booking system with visual floor plan, Stripe deposits, and staff PWA  
+- **diamReserve** — Restaurant booking system with visual floor plan, Stripe deposits, and staff PWA  
   *Stack: Python, Flask, MySQL, Tailwind CSS*
 
 - **diamDB** — Memory-first NoSQL micro-database with sub-50MB RAM footprint, built in Rust  
