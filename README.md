@@ -1,4 +1,4 @@
-# Adam Scholey
+# *Adam Scholey*
 
 **Software Engineer** — Backend systems, APIs, and real-time infrastructure.
 
@@ -6,7 +6,7 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 
 ---
 
-### What I work with
+### *What I work with*
 
 **Languages**\
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -52,24 +52,24 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 
 ---
 
-### Notable work
+### *Notable work*
 
 #### diam Systems — proprietary, private repos
 
-- **FredCode** — Terminal-based AI coding agent with multi-agent workflows and 214 tests  
+- **FredCode** — Terminal-based AI coding agent with multi-agent workflows and 148 tests  
   *Stack: Python, DeepSeek, Gemini*
 
-- **Fred Web** — Real-time AI chat interface with streaming responses and file attachments  
-  *Stack: Python, Quart, Gemini, SQLite*
+- **diamDB** — Memory-first NoSQL micro-database with sub-50MB RAM footprint, built in Rust  
+  *Stack: Rust, Tokio, Axum, DashMap*
 
-- **Fylio** — Secure document management SaaS with Stripe billing  
-  *Stack: Python, Flask, PostgreSQL, Stripe*
-
-- **diamsystems.co.uk** — Corporate website and e-commerce platform
-  *Stack: Python, Flask, Stripe, Gumroad*
-
-- **Seek** — Internal search engine for organisations with full-text search, Redis caching, and multi-tenant sync
+- **Seek** — Internal search engine for organisations with GDPR compliance and multi-region support  
   *Stack: Python, Flask, PostgreSQL, Redis*
+
+- **Tracker** — Project management web app with GitHub OAuth authentication  
+  *Stack: Python, Flask, SQLite, Authlib*
+
+- **diamsystems.co.uk** — Corporate website and e-commerce platform  
+  *Stack: Python, Flask, Stripe, Gumroad*
 
 #### Personal projects — public repos
 
@@ -90,7 +90,7 @@ Currently building software at [diam Systems](https://diamsystems.co.uk). Focuse
 
 ---
 
-### Links
+### *Links*
 
 - [Email](mailto:adamscholey25@gmail.com)
 
